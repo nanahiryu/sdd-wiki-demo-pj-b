@@ -16,4 +16,6 @@ jobs:
       source-repo: sdd-wiki-demo-pj-b
       docs-path: docs
       dest-path: docs/pj-b
-    # secrets を渡さないテスト
+    secrets:
+      GH_APP_ID: ${{ secrets.GH_APP_ID }}
+      GH_APP_PRIVATE_KEY: ""
