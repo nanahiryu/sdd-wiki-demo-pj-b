@@ -1,6 +1,6 @@
 # pj-b: Getting Started
 
-> 認証失敗テスト4: private-key 空
+> 認証失敗テスト5: private-key 不正値
 
 pj-b のセットアップ手順です。
 
