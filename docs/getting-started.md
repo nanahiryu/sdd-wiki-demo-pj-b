@@ -1,6 +1,6 @@
 # pj-b: Getting Started
 
-> 認証失敗テスト2: 不正な APP_ID
+> 認証失敗テスト3: secrets なし
 
 pj-b のセットアップ手順です。
 
