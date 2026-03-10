@@ -1,6 +1,6 @@
 # pj-b: Getting Started
 
-> 認証失敗テスト用の変更
+> 認証失敗テスト2: 不正な APP_ID
 
 pj-b のセットアップ手順です。
 
